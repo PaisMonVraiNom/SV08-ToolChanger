@@ -1,0 +1,3 @@
+store_fan_speed
+G1 Z{layer_z+8} F4500
+G1 X{wipe_tower_x[0]} Y{wipe_tower_y[0]} F18000
