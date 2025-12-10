@@ -1,35 +1,50 @@
-***The remixes used here are somewhat convoluted as I have remixed from a remix from a remix. I will try my best to credit where due ***
+***The remixes used here are somewhat convoluted as I have remixed from a remix from a remix. I will try my best to credit where due***
 
-2020BottomSupport:
-Original File: https://github.com/robandwend/SV08-MultiHead-Conversion/blob/main/stls/Bottom2020MountingBar/SV08%20Side%202020%20mounts%20(v2).stl
-Remix Description: Extended in the X and Y direction to give easier access for installation and to match the positioning of the top 2020 mount location
-Print Instructions: Print 2 mirrored along the X-axis
+<h1>2020BottomSupport:</h1>
 
-2020BottomSupportDrilGuide:
-Original File: https://github.com/robandwend/SV08-MultiHead-Conversion/blob/main/stls/Bottom2020MountingBar/Hole%20Drill%20Guide%20(v2).stl
-Print Instructions: Only 1 required - can be used on both sides of the printer as long as the "Front" is oriented to the front
+- Original File: https://github.com/robandwend/SV08-MultiHead-Conversion/blob/main/stls/Bottom2020MountingBar/SV08%20Side%202020%20mounts%20(v2).stl
 
-Bracket_Left/Right/Stabilizers:
-Original File: https://github.com/DraftShift/StealthChanger/tree/main/UserMods/TheSin-/SV08_Dockbar_Brackets
+- Remix Description: Extended in the X and Y direction to give easier access for installation and to match the positioning of the top 2020 mount location
 
-DockbaseSV08Head:
-Original File: https://github.com/robandwend/SV08-MultiHead-Conversion/blob/main/stls/ModularDock/Base.stl
-Remix Description: taken the portion of this stl which meshes with the Dock Frame. replaced the rest with a negative of the final SV08 shroud. This base is shorter and narrower and has raised sides to help with tool stability
+- Print Instructions: Print 2 mirrored along the X-axis
 
-DockbaseSpartacusHead:
-Original File: https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Dock/Short%20Dock%20Spartacus%20LGX.stp
-Remix Description: made narrower, shorter and raised the sides to aid with tool stability
+<h1>2020BottomSupportDrilGuide:</h1>
 
-DockFrameSpartacusHead.stl:
-Original File: https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Dock/Short%20Dock%20Spartacus%20LGX.stp
+- Original File: https://github.com/robandwend/SV08-MultiHead-Conversion/blob/main/stls/Bottom2020MountingBar/Hole%20Drill%20Guide%20(v2).stl
 
-DockFrameSV08head.stl:
-Original File: https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Dock/Short%20Dock%20Spartacus%20LGX.stp
+- Print Instructions: Only 1 required - can be used on both sides of the printer as long as the "Front" is oriented to the front
+
+<h1>Bracket_Left/Right/Stabilizers:</h1>
+
+- Original File: https://github.com/DraftShift/StealthChanger/tree/main/UserMods/TheSin-/SV08_Dockbar_Brackets
+
+<h1>DockbaseSV08Head:</h1>
+
+- Original File: https://github.com/robandwend/SV08-MultiHead-Conversion/blob/main/stls/ModularDock/Base.stl
+
+- Remix Description: taken the portion of this stl which meshes with the Dock Frame. replaced the rest with a negative of the final SV08 shroud. This base is shorter and narrower and has raised sides to help with tool stability
+
+<h1>DockbaseSpartacusHead:</h1>
+
+- Original File: https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Dock/Short%20Dock%20Spartacus%20LGX.stp
+
+- Remix Description: made narrower, shorter and raised the sides to aid with tool stability
+
+<h1>DockFrameSpartacusHead.stl:</h1>
+
+- Original File: https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Dock/Short%20Dock%20Spartacus%20LGX.stp
+
+<h1>DockFrameSV08head.stl:</h1>
+
+- Original File: https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Dock/Short%20Dock%20Spartacus%20LGX.stp
                 https://github.com/robandwend/SV08-MultiHead-Conversion/blob/main/stls/ModularDock/Base.stl
-Remix Description: added blocks to the dock frame from link1 to allow a friction fit between the base and frame. adjusted the magnet mount points to match the magnet position of the SV08 shroud. Raised the connection point of the base to accomodate for height difference between SV08 and Spartacus toolheads
 
-DockFrameSpartacusHead.stl:
-Original File: https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Dock/Short%20Dock%20Spartacus%20LGX.stp
+- Remix Description: added blocks to the dock frame from link1 to allow a friction fit between the base and frame. adjusted the magnet mount points to match the magnet position of the SV08 shroud. Raised the connection point of the base to accomodate for height difference between SV08 and Spartacus toolheads
 
-DockFrameTop.stl:
-Original File: https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Dock/Short%20Dock%20Spartacus%20LGX.stp
+<h1>DockFrameSpartacusHead.stl:</h1>
+
+- Original File: https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Dock/Short%20Dock%20Spartacus%20LGX.stp
+
+<h1>DockFrameTop.stl:</h1>
+
+- Original File: https://github.com/dury10/Spartacus/blob/main/Stealth-Changer/Dock/Short%20Dock%20Spartacus%20LGX.stp
